@@ -1,5 +1,5 @@
 # SecurePass - Customizable Password Generator Web Application
-![Password generator]([images/securepass_logo.png](https://i.imgur.com/m9pzsSq.png))
+![Password generator](https://i.imgur.com/m9pzsSq.png)
 
 SecurePass is a web application designed to help users generate secure passwords with customizable options. With features like customizable length, character selection, strength indicator, and a user-friendly interface, SecurePass offers flexibility and ease of use to meet various security requirements.
 
